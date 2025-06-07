@@ -6,3 +6,8 @@ int main(int argc, char** argv)
     std::cout<< "Hello test b!"<<std::endl;
     return 0;
 }
+
+void display()
+{
+    std::cout<< "test.....";
+}
